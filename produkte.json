@@ -1,0 +1,486 @@
+[
+  {
+    "id": 1,
+    "name": "Filter, Innenraumluft",
+    "marke": "DENSO",
+    "artikelnummer": "DCF576P",
+    "fahrzeuge": [
+      { "modell": "A1", "typ": "A1 (8X1, 8XK)", "von": 2010, "bis": 2018 },
+      { "modell": "A1", "typ": "A1 Sportback (8XA, 8XF)", "von": 2011, "bis": 2018 },
+      { "modell": "IBIZA", "typ": "IBIZA IV (6J5, 6P1)", "von": 2008, "bis": 2017 },
+      { "modell": "IBIZA", "typ": "IBIZA IV SC (6J1, 6P5)", "von": 2008, "bis": 2016 },
+      { "modell": "IBIZA", "typ": "IBIZA IV ST (6J8, 6P8)", "von": 2010, "bis": 2016 },
+      { "modell": "TOLEDO", "typ": "TOLEDO IV (KG3)", "von": 2012, "bis": 2019 },
+      { "modell": "FABIA", "typ": "FABIA III (NJ3)", "von": 2014, "bis": 2021 },
+      { "modell": "FABIA", "typ": "FABIA III Kombi (NJ5)", "von": 2014, "bis": 2022 },
+      { "modell": "RAPID", "typ": "RAPID Spaceback (NH1)", "von": 2012, "bis": 2019 },
+      { "modell": "RAPID", "typ": "RAPID (NH3, NK3, NK6)", "von": 2012, "bis": 2022 },
+      { "modell": "POLO", "typ": "POLO V Kasten/Schrägheck (6R1, 6C1)", "von": 2009, "bis": 2017 },
+      { "modell": "POLO", "typ": "POLO V (6R1, 6C1)", "von": 2009, "bis": 2022 },
+      { "modell": "POLO", "typ": "POLO V Stufenheck (602, 604, 612, 614)", "von": 2010, "bis": 2022 }
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Filter, Innenraumluft",
+    "marke": "MAHLE",
+    "artikelnummer": "LAK428/S",
+    "fahrzeuge": [
+      { "modell": "COMBO", "typ": "COMBO E Tour / Life (K9)", "von": 2018, "bis": "Zurzeit" },
+      { "modell": "COMBO", "typ": "COMBO Kasten/Großraumlimousine (K9)", "von": 2018, "bis": "Zurzeit" },
+      { "modell": "GRANDLAND", "typ": "GRANDLAND / GRANDLAND X (A18, P1UO)", "von": 2017, "bis": "Zurzeit" },
+      { "modell": "GRANDLAND", "typ": "GRANDLAND X Van", "von": 2017, "bis": 2021 },
+      { "modell": "VIVARO", "typ": "VIVARO C Kasten (K0)", "von": 2019, "bis": "Zurzeit" },
+      { "modell": "VIVARO", "typ": "VIVARO C Bus (K0)", "von": 2019, "bis": "Zurzeit" },
+      { "modell": "VIVARO", "typ": "VIVARO C Platform Cabin (K0)", "von": 2019, "bis": "Zurzeit" },
+      { "modell": "ZAFIRA", "typ": "ZAFIRA LIFE Bus (K0)", "von": 2019, "bis": "Zurzeit" },
+      { "modell": "3008", "typ": "3008 I Großraumlimousine (0U_)", "von": 2009, "bis": 2016 },
+      { "modell": "3008", "typ": "3008 Van (0U_)", "von": 2009, "bis": 2016 },
+      { "modell": "3008", "typ": "3008 Van (MR_, MC_, MJ_)", "von": 2016, "bis": "Zurzeit" },
+      { "modell": "3008", "typ": "3008 II SUV (MC_, MR_, MJ_, M4_)", "von": 2016, "bis": "Zurzeit" },
+      { "modell": "3008", "typ": "3008 III (KA_, KB_, KC_)", "von": 2023, "bis": "Zurzeit" },
+      { "modell": "5008", "typ": "5008 I Van (0U_)", "von": 2009, "bis": 2017 },
+      { "modell": "5008", "typ": "5008 (0U_, 0E_)", "von": 2009, "bis": 2017 },
+      { "modell": "5008", "typ": "5008 II (MC_, MJ_, MR_, M4_)", "von": 2016, "bis": "Zurzeit" },
+      { "modell": "5008", "typ": "5008 II Van (MC_, MJ_)", "von": 2018, "bis": "Zurzeit" },
+      { "modell": "508", "typ": "508 SW II (FC_, FJ_, F4_)", "von": 2018, "bis": "Zurzeit" },
+      { "modell": "EXPERT", "typ": "EXPERT Kasten (V_)", "von": 2016, "bis": "Zurzeit" },
+      { "modell": "EXPERT", "typ": "EXPERT Bus (V_)", "von": 2016, "bis": "Zurzeit" },
+      { "modell": "EXPERT", "typ": "EXPERT Pritsche/Fahrgestell (V_)", "von": 2016, "bis": "Zurzeit" }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Luftfilter",
+    "marke": "MANN-FILTER",
+    "artikelnummer": "C32191",
+    "fahrzeuge": [
+      { "modell": "M27", "typ": "M27", "von": 2010, "bis": "Zurzeit" },
+      { "modell": "CALIFORNIA", "typ": "CALIFORNIA T5 Camper (7EC, 7EF, 7EG, 7HF, 7HC)", "von": 2007, "bis": 2015 },
+      { "modell": "CALIFORNIA", "typ": "CALIFORNIA T6 Camper (SGC, SGG, SHC)", "von": 2015, "bis": 2024 },
+      { "modell": "MULTIVAN", "typ": "MULTIVAN T5 (7HM, 7HN, 7HF, 7EF, 7EM, 7EN)", "von": 2003, "bis": 2015 },
+      { "modell": "MULTIVAN", "typ": "MULTIVAN T6 (SGF, SGM, SGN, SHM, SHN)", "von": 2015, "bis": 2024 },
+      { "modell": "TRANSPORTER", "typ": "TRANSPORTER T5 Pritsche/Fahrgestell (7JD, 7JE, 7JL, 7JY, 7JZ)", "von": 2003, "bis": 2015 },
+      { "modell": "TRANSPORTER", "typ": "TRANSPORTER T5 Kasten (7HA, 7HH, 7EA, 7EH)", "von": 2003, "bis": 2015 },
+      { "modell": "TRANSPORTER", "typ": "TRANSPORTER T5 Bus (7HB, 7HJ, 7EB, 7EJ)", "von": 2003, "bis": 2015 },
+      { "modell": "TRANSPORTER", "typ": "TRANSPORTER T6 / CARAVELLE T6 Bus (SGB, SGJ, SHB, SHJ)", "von": 2015, "bis": 2024 },
+      { "modell": "TRANSPORTER", "typ": "TRANSPORTER T6 Kasten (SGA, SGH, SHA, SHH)", "von": 2015, "bis": 2024 },
+      { "modell": "TRANSPORTER", "typ": "TRANSPORTER T6 Pritsche/Fahrgestell (SFD, SFE, SFL, SFZ, SJD)", "von": 2015, "bis": 2024 }
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Filter, Innenraumluft",
+    "marke": "BOSCH",
+    "artikelnummer": "1987432300",
+    "fahrzeuge": [
+      { "modell": "A3", "typ": "A3 (8L1)", "von": 1996, "bis": 2003 },
+      { "modell": "TT", "typ": "TT (8N3)", "von": 1998, "bis": 2006 },
+      { "modell": "TT", "typ": "TT Roadster (8N9)", "von": 1999, "bis": 2006 },
+      { "modell": "OCTAVIA", "typ": "OCTAVIA I (1U2)", "von": 1996, "bis": 2010 },
+      { "modell": "OCTAVIA", "typ": "OCTAVIA I Combi (1U5)", "von": 1998, "bis": 2010 },
+      { "modell": "OCTAVIA", "typ": "OCTAVIA I Kasten/Kombi (1U5)", "von": 2000, "bis": 2010 },
+      { "modell": "BORA", "typ": "BORA I (1J2)", "von": 1998, "bis": 2013 },
+      { "modell": "BORA", "typ": "BORA Variant (1J6)", "von": 1999, "bis": 2005 },
+      { "modell": "CADDY", "typ": "CADDY II Kasten/Großraumlimousine (9K9A)", "von": 1995, "bis": 2004 },
+      { "modell": "CADDY", "typ": "CADDY II Großraumlimousine (9K9B)", "von": 1995, "bis": 2004 },
+      { "modell": "CADDY", "typ": "CADDY II Pick-up (9U7)", "von": 1996, "bis": 2000 },
+      { "modell": "GOLF", "typ": "GOLF III Van (1H1)", "von": 1991, "bis": 1997 },
+      { "modell": "GOLF", "typ": "GOLF III (1H1)", "von": 1991, "bis": 1997 },
+      { "modell": "GOLF", "typ": "GOLF Van III Variant (1H5)", "von": 1993, "bis": 1999 },
+      { "modell": "GOLF", "typ": "GOLF III Cabriolet (1E7)", "von": 1993, "bis": 1998 },
+      { "modell": "GOLF", "typ": "GOLF III Variant (1H5)", "von": 1993, "bis": 1999 },
+      { "modell": "GOLF", "typ": "GOLF IV (1J1)", "von": 1997, "bis": 2007 },
+      { "modell": "GOLF", "typ": "GOLF IV Van (1J1)", "von": 1997, "bis": 2004 },
+      { "modell": "GOLF", "typ": "GOLF IV Cabriolet (1E7)", "von": 1998, "bis": 2002 },
+      { "modell": "GOLF", "typ": "GOLF VAN IV Variant (1J5)", "von": 1999, "bis": 2006 },
+      { "modell": "GOLF", "typ": "GOLF IV Variant (1J5)", "von": 1999, "bis": 2006 },
+      { "modell": "LUPO", "typ": "LUPO I (6X1, 6E1)", "von": 1998, "bis": 2005 },
+      { "modell": "NEW BEETLE", "typ": "NEW BEETLE (9C1, 1C1)", "von": 1998, "bis": 2010 },
+      { "modell": "NEW BEETLE", "typ": "NEW BEETLE Cabriolet (1Y7)", "von": 2002, "bis": 2010 },
+      { "modell": "PASSAT", "typ": "PASSAT B5.5 Variant (3B6)", "von": 2000, "bis": 2005 },
+      { "modell": "PASSAT", "typ": "PASSAT B5.5 (3B3)", "von": 2000, "bis": 2005 },
+      { "modell": "POLO", "typ": "POLO III (6N1)", "von": 1994, "bis": 1999 },
+      { "modell": "POLO", "typ": "POLO Kasten/Schrägheck (6N1)", "von": 1994, "bis": 1999 },
+      { "modell": "POLO", "typ": "POLO III CLASSIC (6V2)", "von": 1995, "bis": 2002 },
+      { "modell": "POLO", "typ": "POLO Kasten/Kombi (6V5)", "von": 1995, "bis": 2001 },
+      { "modell": "POLO", "typ": "POLO Variant (6V5)", "von": 1997, "bis": 2001 },
+      { "modell": "POLO", "typ": "POLO (6N2)", "von": 1999, "bis": 2001 },
+      { "modell": "VENTO", "typ": "VENTO (1H2)", "von": 1991, "bis": 1998 }
+    ]
+  },
+{
+  "id": 5,
+  "name": "Filter, Innenraumluft",
+  "marke": "MAHLE",
+  "artikelnummer": "LA918",
+  "fahrzeuge": [
+    { "modell": "X5", "typ": "X5 (E70)", "von": 2006, "bis": 2013 },
+    { "modell": "X5", "typ": "X5 (F15, F85)", "von": 2013, "bis": 2018 },
+    { "modell": "X6", "typ": "X6 (E71, E72)", "von": 2007, "bis": 2014 },
+    { "modell": "X6", "typ": "X6 (F16, F86)", "von": 2014, "bis": 2019 }
+  ]
+},
+
+{
+  "id": 6,
+  "name": "Luftfilter",
+  "marke": "MAHLE",
+  "artikelnummer": "LX708",
+  "fahrzeuge": [
+    { "modell": "CORDOBA", "typ": "CORDOBA (6L2)", "von": 2002, "bis": 2009 },
+    { "modell": "IBIZA", "typ": "IBIZA III (6L1)", "von": 2002, "bis": 2009 },
+    { "modell": "IBIZA", "typ": "IBIZA IV (6J5, 6P1)", "von": 2008, "bis": 2010 },
+    { "modell": "IBIZA", "typ": "IBIZA IV SC (6J1, 6P5)", "von": 2008, "bis": 2010 },
+    { "modell": "FABIA", "typ": "FABIA I Stufenheck (6Y3)", "von": 1999, "bis": 2007 },
+    { "modell": "FABIA", "typ": "FABIA I (6Y2)", "von": 1999, "bis": 2008 },
+    { "modell": "FABIA", "typ": "FABIA I Praktik (6Y5)", "von": 2000, "bis": 2007 },
+    { "modell": "FABIA", "typ": "FABIA I Combi (6Y5)", "von": 2000, "bis": 2007 },
+    { "modell": "FABIA", "typ": "FABIA II (542)", "von": 2007, "bis": 2010 },
+    { "modell": "FABIA", "typ": "FABIA II Combi (545)", "von": 2007, "bis": 2010 },
+    { "modell": "ROOMSTER", "typ": "ROOMSTER (5J7)", "von": 2006, "bis": 2010 },
+    { "modell": "ROOMSTER", "typ": "ROOMSTER Praktik (5J)", "von": 2007, "bis": 2010 },
+    { "modell": "FOX", "typ": "FOX Schrägheck (5Z1, 5Z3, 5Z4, 5Z5)", "von": 2005, "bis": 2009 },
+    { "modell": "POLO", "typ": "POLO (6N2)", "von": 1999, "bis": 2001 },
+    { "modell": "POLO", "typ": "POLO IV (9N_, 9A_)", "von": 2001, "bis": 2009 },
+    { "modell": "POLO", "typ": "POLO IV Stufenheck (9A4, 9A2, 9N2, 9A6)", "von": 2002, "bis": 2012 },
+    { "modell": "POLO", "typ": "POLO IV Stufenheck (9N2, 9N4)", "von": 2003, "bis": 2010 }
+  ]
+},
+
+{
+  "id": 7,
+  "name": "Filter, Innenraumluft",
+  "marke": "MAHLE",
+  "artikelnummer": "LA158",
+  "fahrzeuge": [
+    { "modell": "1500", "typ": "1500 Crew Cab Pickup (DT)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "2", "typ": "2 (DY)", "von": 2003, "bis": 2007 },
+    { "modell": "6", "typ": "6 Station Wagon (GY)", "von": 2002, "bis": 2008 },
+    { "modell": "6", "typ": "6 Stufenheck (GG)", "von": 2002, "bis": 2007 },
+    { "modell": "6", "typ": "6 Hatchback (GG)", "von": 2002, "bis": 2007 },
+    { "modell": "6", "typ": "6 Hatchback (GH)", "von": 2007, "bis": 2013 },
+    { "modell": "6", "typ": "6 Stufenheck (GH)", "von": 2007, "bis": 2013 },
+    { "modell": "6", "typ": "6 Kombi (GH)", "von": 2007, "bis": 2013 },
+    { "modell": "CX-7", "typ": "CX-7 (ER)", "von": 2006, "bis": 2013 }
+  ]
+},
+
+{
+  "id": 8,
+  "name": "Filter, Innenraumluft",
+  "marke": "DENSO",
+  "artikelnummer": "DCF481P",
+  "fahrzeuge": [
+    { "modell": "CROMA", "typ": "CROMA (194_)", "von": 2005, "bis": 2011 },
+    { "modell": "9-3", "typ": "9-3 (YS3F, E79, D79, D75)", "von": 2002, "bis": 2015 },
+    { "modell": "9-3", "typ": "9-3 Cabriolet (YS3F)", "von": 2003, "bis": 2015 },
+    { "modell": "9-3", "typ": "9-3 Kombi (E50)", "von": 2005, "bis": 2015 },
+    { "modell": "9-3X", "typ": "9-3X (YS3)", "von": 2009, "bis": 2015 },
+    { "modell": "BLS", "typ": "BLS", "von": 2006, "bis": "Zurzeit" },
+    { "modell": "BLS", "typ": "BLS Wagon", "von": 2007, "bis": "Zurzeit" },
+    { "modell": "CORSA", "typ": "CORSA C (X01)", "von": 2000, "bis": 2009 },
+    { "modell": "CORSA", "typ": "CORSA C Kasten/Schrägheck (X01)", "von": 2000, "bis": 2012 },
+    { "modell": "SIGNUM", "typ": "SIGNUM CC (Z03)", "von": 2003, "bis": 2008 },
+    { "modell": "VECTRA", "typ": "VECTRA C (Z02)", "von": 2002, "bis": 2009 },
+    { "modell": "VECTRA", "typ": "VECTRA C CC (Z02)", "von": 2002, "bis": 2009 },
+    { "modell": "VECTRA", "typ": "VECTRA C Caravan (Z02)", "von": 2003, "bis": 2009 },
+    { "modell": "GRAND", "typ": "GRAND SANTA FÉ", "von": 2013, "bis": 2018 }
+  ]
+},
+{
+  "id": 9,
+  "name": "Filter, Innenraumluft",
+  "marke": "RIDEX",
+  "artikelnummer": "424I0022",
+  "fahrzeuge": [
+    { "modell": "9-3", "typ": "9-3 (YS3F, E79, D79, D75)", "von": 2002, "bis": 2015 },
+    { "modell": "9-3", "typ": "9-3 Cabriolet (YS3F)", "von": 2003, "bis": 2015 },
+    { "modell": "9-3", "typ": "9-3 Kombi (E50)", "von": 2005, "bis": 2015 },
+    { "modell": "BLS", "typ": "BLS", "von": 2006, "bis": "Zurzeit" },
+    { "modell": "BLS", "typ": "BLS Wagon", "von": 2007, "bis": "Zurzeit" },
+    { "modell": "COMBO", "typ": "COMBO Tour", "von": 2001, "bis": 2011 },
+    { "modell": "COMBO", "typ": "COMBO Kasten/Großraumlimousine", "von": 2001, "bis": "Zurzeit" },
+    { "modell": "CORSA", "typ": "CORSA C (X01)", "von": 2000, "bis": 2009 },
+    { "modell": "CORSA", "typ": "CORSA C Kasten/Schrägheck (X01)", "von": 2000, "bis": 2012 },
+    { "modell": "SIGNUM", "typ": "SIGNUM CC (Z03)", "von": 2003, "bis": 2008 },
+    { "modell": "TIGRA", "typ": "TIGRA TwinTop (X04)", "von": 2004, "bis": 2010 },
+    { "modell": "VECTRA", "typ": "VECTRA C (Z02)", "von": 2002, "bis": 2009 },
+    { "modell": "VECTRA", "typ": "VECTRA C CC (Z02)", "von": 2002, "bis": 2009 },
+    { "modell": "VECTRA", "typ": "VECTRA C Caravan (Z02)", "von": 2003, "bis": 2009 }
+  ]
+},
+{
+  "id": 10,
+  "name": "Ölfilter",
+  "marke": "KNECHT",
+  "artikelnummer": "OX982D",
+  "fahrzeuge": [
+    { "modell": "Q30", "typ": "Q30", "von": 2015, "bis": "Zurzeit" },
+    { "modell": "Q50", "typ": "Q50", "von": 2014, "bis": "Zurzeit" },
+    { "modell": "Q60", "typ": "Q60 Coupe", "von": 2016, "bis": "Zurzeit" },
+    { "modell": "QX30", "typ": "QX30", "von": 2016, "bis": "Zurzeit" },
+    { "modell": "A-KLASSE", "typ": "A-KLASSE (W176)", "von": 2012, "bis": 2018 },
+    { "modell": "A-KLASSE", "typ": "A-KLASSE (W177)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "A-KLASSE", "typ": "A-KLASSE Stufenheck (V177)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "B-KLASSE", "typ": "B-KLASSE Sports Tourer (W246, W242)", "von": 2011, "bis": 2018 },
+    { "modell": "B-KLASSE", "typ": "B-KLASSE Sports Tourer (W247)", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "C-KLASSE", "typ": "C-KLASSE (W204)", "von": 2008, "bis": 2014 },
+    { "modell": "C-KLASSE", "typ": "C-KLASSE T-Model (S204)", "von": 2012, "bis": 2014 },
+    { "modell": "C-KLASSE", "typ": "C-KLASSE Coupe (C204)", "von": 2013, "bis": "Zurzeit" },
+    { "modell": "C-KLASSE", "typ": "C-KLASSE (W205)", "von": 2013, "bis": 2021 },
+    { "modell": "C-KLASSE", "typ": "C-KLASSE T-Model (S205)", "von": 2014, "bis": 2021 },
+    { "modell": "C-KLASSE", "typ": "C-KLASSE Coupe (C205)", "von": 2015, "bis": 2023 },
+    { "modell": "C-KLASSE", "typ": "C-KLASSE Cabriolet (A205)", "von": 2016, "bis": 2023 },
+    { "modell": "CLA", "typ": "CLA Coupe (C117)", "von": 2013, "bis": 2019 },
+    { "modell": "CLA", "typ": "CLA Shooting Brake (X117)", "von": 2015, "bis": 2019 },
+    { "modell": "CLA", "typ": "CLA (C118)", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "CLA", "typ": "CLA Shooting Brake (X118)", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "CLS", "typ": "CLS (C257)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "E-KLASSE", "typ": "E-KLASSE (W213)", "von": 2016, "bis": 2023 },
+    { "modell": "E-KLASSE", "typ": "E-KLASSE T-Model (S213)", "von": 2016, "bis": 2023 },
+    { "modell": "GLA", "typ": "GLA (H247)", "von": 2020, "bis": "Zurzeit" },
+    { "modell": "GLA-KLASSE", "typ": "GLA-KLASSE (X156)", "von": 2013, "bis": 2019 },
+    { "modell": "GLB", "typ": "GLB (X247)", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "GLC", "typ": "GLC (X253)", "von": 2015, "bis": 2022 },
+    { "modell": "GLC", "typ": "GLC Coupe (C253)", "von": 2016, "bis": 2023 },
+    { "modell": "GLE", "typ": "GLE (V167)", "von": 2020, "bis": 2023 },
+    { "modell": "GLE", "typ": "GLE Coupe (C167)", "von": 2020, "bis": 2023 },
+    { "modell": "GLK-KLASSE", "typ": "GLK-KLASSE (X204)", "von": 2013, "bis": 2015 },
+    { "modell": "SLC", "typ": "SLC (R172)", "von": 2016, "bis": "Zurzeit" },
+    { "modell": "SLK", "typ": "SLK (R172)", "von": 2015, "bis": "Zurzeit" }
+  ]
+},
+{
+  "id": 11,
+  "name": "Kraftstofffilter",
+  "marke": "MAHLE",
+  "artikelnummer": "KX208D",
+  "fahrzeuge": [
+    { "modell": "MUSA", "typ": "MUSA (350_)", "von": 2004, "bis": 2012 },
+    { "modell": "YPSILON", "typ": "YPSILON (843_)", "von": 2003, "bis": 2011 },
+    { "modell": "500", "typ": "500 (312_)", "von": 2007, "bis": "Zurzeit" },
+    { "modell": "500", "typ": "500 C (312_)", "von": 2009, "bis": "Zurzeit" },
+    { "modell": "CROMA", "typ": "CROMA (194_)", "von": 2005, "bis": 2011 },
+    { "modell": "CROMA", "typ": "CROMA Kasten/Kombi (194_)", "von": 2006, "bis": 2011 },
+    { "modell": "DOBLO", "typ": "DOBLO (223_)", "von": 2004, "bis": "Zurzeit" },
+    { "modell": "DUCATO", "typ": "DUCATO (244_)", "von": 2001, "bis": 2006 },
+    { "modell": "DUCATO", "typ": "DUCATO (250_)", "von": 2006, "bis": "Zurzeit" },
+    { "modell": "IDEA", "typ": "IDEA (350_)", "von": 2004, "bis": "Zurzeit" },
+    { "modell": "MULTIPLA", "typ": "MULTIPLA (186_)", "von": 2002, "bis": 2010 },
+    { "modell": "PANDA", "typ": "PANDA (169_)", "von": 2003, "bis": "Zurzeit" },
+    { "modell": "PUNTO", "typ": "PUNTO (188_)", "von": 2001, "bis": 2012 },
+    { "modell": "SEDICI", "typ": "SEDICI (189_)", "von": 2006, "bis": 2014 },
+    { "modell": "STRADA", "typ": "STRADA (178_, 278_)", "von": 2006, "bis": 2012 },
+    { "modell": "CAPTIVA", "typ": "CAPTIVA (C100, C140)", "von": 2006, "bis": "Zurzeit" },
+    { "modell": "EPICA", "typ": "EPICA (KL1_)", "von": 2007, "bis": 2011 },
+    { "modell": "LACETTI", "typ": "LACETTI (J200)", "von": 2007, "bis": "Zurzeit" },
+    { "modell": "NUBIRA", "typ": "NUBIRA", "von": 2005, "bis": 2011 },
+    { "modell": "JUSTY", "typ": "JUSTY III (G3X)", "von": 2003, "bis": "Zurzeit" },
+    { "modell": "IGNIS", "typ": "IGNIS II (MH)", "von": 2003, "bis": "Zurzeit" },
+    { "modell": "SWIFT", "typ": "SWIFT III (MZ, EZ)", "von": 2005, "bis": 2012 },
+    { "modell": "SWIFT", "typ": "SWIFT IV (FZ, NZ)", "von": 2010, "bis": 2017 },
+    { "modell": "SX4", "typ": "SX4 (EY, GY)", "von": 2006, "bis": "Zurzeit" },
+    { "modell": "SX4", "typ": "SX4 S-CROSS (JY)", "von": 2013, "bis": 2022 },
+    { "modell": "VITARA", "typ": "VITARA (LY)", "von": 2015, "bis": "Zurzeit" },
+    { "modell": "WAGON R+", "typ": "WAGON R+ (MA)", "von": 2003, "bis": "Zurzeit" },
+    { "modell": "JUMPER", "typ": "JUMPER (244)", "von": 2002, "bis": 2006 },
+    { "modell": "JUMPER", "typ": "JUMPER (250)", "von": 2006, "bis": "Zurzeit" },
+    { "modell": "BOXER", "typ": "BOXER (244)", "von": 2001, "bis": 2006 },
+    { "modell": "BOXER", "typ": "BOXER (250)", "von": 2006, "bis": "Zurzeit" }
+  ]
+},
+{
+  "id": 12,
+  "name": "Ölfilter",
+  "marke": "MAHLE",
+  "artikelnummer": "OX388D",
+  "fahrzeuge": [
+    { "modell": "A1", "typ": "A1 (8X1, 8XK)", "von": 2010, "bis": 2015 },
+    { "modell": "A1", "typ": "A1 Sportback (8XA, 8XF)", "von": 2011, "bis": 2015 },
+    { "modell": "A3", "typ": "A3 (8P1)", "von": 2003, "bis": 2012 },
+    { "modell": "A3", "typ": "A3 Sportback (8PA)", "von": 2004, "bis": 2013 },
+    { "modell": "A3", "typ": "A3 Cabriolet (8P7)", "von": 2008, "bis": 2013 },
+    { "modell": "A4", "typ": "A4 B8 (8K2)", "von": 2007, "bis": 2015 },
+    { "modell": "A4", "typ": "A4 B8 Avant (8K5)", "von": 2008, "bis": 2015 },
+    { "modell": "A4", "typ": "A4 Allroad B8 (8KH)", "von": 2009, "bis": 2016 },
+    { "modell": "A5", "typ": "A5 (8T3)", "von": 2008, "bis": 2017 },
+    { "modell": "A5", "typ": "A5 Cabriolet (8F7)", "von": 2009, "bis": 2017 },
+    { "modell": "A5", "typ": "A5 Sportback (8TA)", "von": 2009, "bis": 2017 },
+    { "modell": "A6", "typ": "A6 C7 (4G2, 4GC)", "von": 2011, "bis": 2018 },
+    { "modell": "A6", "typ": "A6 C7 Avant (4G5, 4GD)", "von": 2011, "bis": 2018 },
+    { "modell": "Q3", "typ": "Q3 (8UB, 8UG)", "von": 2011, "bis": 2018 },
+    { "modell": "Q5", "typ": "Q5 (8RB)", "von": 2008, "bis": 2017 },
+    { "modell": "Q5", "typ": "Q5 Van (8RB)", "von": 2008, "bis": 2017 },
+    { "modell": "TT", "typ": "TT Roadster (8J9)", "von": 2008, "bis": 2014 },
+    { "modell": "TT", "typ": "TT (8J3)", "von": 2008, "bis": 2014 },
+
+    { "modell": "ALHAMBRA", "typ": "ALHAMBRA (710, 711)", "von": 2010, "bis": 2022 },
+    { "modell": "ALTEA", "typ": "ALTEA (5P1)", "von": 2004, "bis": 2015 },
+    { "modell": "ALTEA", "typ": "ALTEA XL (5P5, 5P8)", "von": 2006, "bis": 2015 },
+    { "modell": "EXEO", "typ": "EXEO (3R2)", "von": 2008, "bis": 2013 },
+    { "modell": "EXEO", "typ": "EXEO ST (3R5)", "von": 2009, "bis": 2013 },
+
+    { "modell": "IBIZA", "typ": "IBIZA IV Kasten/Schrägheck (6J1)", "von": 2009, "bis": 2015 },
+    { "modell": "IBIZA", "typ": "IBIZA IV (6J5, 6P1)", "von": 2009, "bis": 2015 },
+    { "modell": "IBIZA", "typ": "IBIZA IV SC (6J1, 6P5)", "von": 2009, "bis": 2015 },
+    { "modell": "IBIZA", "typ": "IBIZA IV ST (6J8, 6P8)", "von": 2010, "bis": 2015 },
+
+    { "modell": "LEON", "typ": "LEON (1P1)", "von": 2005, "bis": 2012 },
+    { "modell": "TOLEDO", "typ": "TOLEDO IV (KG3)", "von": 2012, "bis": 2015 },
+
+    { "modell": "FABIA", "typ": "FABIA II (542)", "von": 2010, "bis": 2014 },
+    { "modell": "FABIA", "typ": "FABIA II Combi (545)", "von": 2010, "bis": 2014 },
+    { "modell": "FABIA", "typ": "FABIA II Praktik (545)", "von": 2013, "bis": 2014 },
+
+    { "modell": "OCTAVIA", "typ": "OCTAVIA II (1Z3)", "von": 2004, "bis": 2013 },
+    { "modell": "OCTAVIA", "typ": "OCTAVIA II Combi (1Z5)", "von": 2004, "bis": 2013 },
+
+    { "modell": "RAPID", "typ": "RAPID (NH3, NK3, NK6)", "von": 2012, "bis": 2019 },
+    { "modell": "RAPID", "typ": "RAPID Spaceback (NH1)", "von": 2012, "bis": 2019 },
+
+    { "modell": "ROOMSTER", "typ": "ROOMSTER (5J7)", "von": 2010, "bis": 2015 },
+    { "modell": "ROOMSTER", "typ": "ROOMSTER Praktik (5J)", "von": 2010, "bis": 2015 },
+
+    { "modell": "SUPERB", "typ": "SUPERB II (3T4)", "von": 2008, "bis": 2015 },
+    { "modell": "SUPERB", "typ": "SUPERB II Kombi (3T5)", "von": 2009, "bis": 2015 },
+
+    { "modell": "YETI", "typ": "YETI (5L)", "von": 2009, "bis": 2017 },
+    { "modell": "M27", "typ": "M27", "von": 2010, "bis": "Zurzeit" },
+
+    { "modell": "AMAROK", "typ": "AMAROK (2HA, 2HB, S1B, S6B, S7A, S7B, AGD)", "von": 2010, "bis": "Zurzeit" },
+    { "modell": "AMAROK", "typ": "AMAROK Pritsche/Fahrgestell (S1B, S6B, S7B)", "von": 2011, "bis": 2019 },
+
+    { "modell": "BEETLE", "typ": "BEETLE (5C1, 5C2)", "von": 2011, "bis": 2016 },
+    { "modell": "BEETLE", "typ": "BEETLE Cabriolet (5C7, 5C8)", "von": 2011, "bis": 2016 },
+
+    { "modell": "CADDY", "typ": "CADDY III Kasten/Großraumlimousine (2KA, 2KH, 2CA, 2CH)", "von": 2010, "bis": 2015 },
+    { "modell": "CADDY", "typ": "CADDY III Großraumlimousine (2KB, 2KJ, 2CB, 2CJ)", "von": 2010, "bis": 2015 },
+    { "modell": "CADDY", "typ": "CADDY IV Großraumlimousine (SAB, SAJ)", "von": 2015, "bis": 2020 },
+    { "modell": "CADDY", "typ": "CADDY IV Kasten/Großraumlimousine (SAA, SAH)", "von": 2015, "bis": 2020 },
+
+    { "modell": "CALIFORNIA", "typ": "CALIFORNIA T5 Camper (7EC, 7EF, 7EG, 7HF, 7HC)", "von": 2009, "bis": 2015 },
+    { "modell": "CALIFORNIA", "typ": "CALIFORNIA T6 Camper (SGC, SGG, SHC)", "von": 2015, "bis": 2019 }
+  ]
+},
+{
+  "id": 13,
+  "name": "Ölfilter",
+  "marke": "MANN-FILTER",
+  "artikelnummer": "HU7032z",
+  "fahrzeuge": [
+    { "modell": "DS", "typ": "DS 7 Crossback (J4_, JR_, JC_)", "von": 2017, "bis": "Zurzeit" },
+    { "modell": "DS", "typ": "DS 3 / DS 3 CROSSBACK (UR_, UC_, UJ_)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "DS", "typ": "DS 4 II (FR_, FB_, F3_, FP_, F4_)", "von": 2021, "bis": 2025 },
+    { "modell": "DS", "typ": "DS 7 (J4_, JC_)", "von": 2022, "bis": "Zurzeit" },
+
+    { "modell": "DOBLO", "typ": "DOBLO Großraumlimousine (510_, 511_, 360_, 361_)", "von": 2022, "bis": "Zurzeit" },
+    { "modell": "DOBLO", "typ": "DOBLO Kasten/Großraumlimousine (510_, 511_)", "von": 2022, "bis": "Zurzeit" },
+    { "modell": "SCUDO", "typ": "SCUDO Kasten", "von": 2022, "bis": "Zurzeit" },
+
+    { "modell": "ECOSPORT", "typ": "ECOSPORT", "von": 2017, "bis": "Zurzeit" },
+
+    { "modell": "FOCUS", "typ": "FOCUS IV (HN)", "von": 2018, "bis": 2025 },
+    { "modell": "FOCUS", "typ": "FOCUS IV Turnier (HP)", "von": 2018, "bis": 2025 },
+    { "modell": "FOCUS", "typ": "FOCUS IV Stufenheck (HM)", "von": 2018, "bis": 2025 },
+
+    { "modell": "KUGA", "typ": "KUGA III (DFK)", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "PUMA", "typ": "PUMA (J2K, CF7)", "von": 2020, "bis": "Zurzeit" },
+
+    { "modell": "TOURNEO", "typ": "TOURNEO CONNECT / GRAND TOURNEO CONNECT V408 Großraumlimousine", "von": 2018, "bis": 2022 },
+    { "modell": "TRANSIT", "typ": "TRANSIT CONNECT Großraumlimousine", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "TRANSIT", "typ": "TRANSIT CONNECT V408 Kasten/Großraumlimousine", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "TRANSIT", "typ": "TRANSIT COURIER V769 Kasten/Großraumlimousine (N3P)", "von": 2023, "bis": "Zurzeit" },
+
+    { "modell": "PROACE", "typ": "PROACE VERSO Bus (MPY_)", "von": 2018, "bis": 2025 },
+    { "modell": "PROACE", "typ": "PROACE Bus (MPY_)", "von": 2018, "bis": 2025 },
+    { "modell": "PROACE", "typ": "PROACE Kasten (MDZ_)", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "PROACE", "typ": "PROACE CITY Kasten/Großraumlimousine (BPZ_)", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "PROACE", "typ": "PROACE CITY VERSO Großraumlimousine (BKY_)", "von": 2019, "bis": "Zurzeit" },
+
+    { "modell": "BERLINGO", "typ": "BERLINGO Kasten/Großraumlimousine (K9)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "BERLINGO", "typ": "BERLINGO (ER_, EC_)", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "C3", "typ": "C3 III (SX)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "C3", "typ": "C3 AIRCROSS I (2R_, 2C_)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "C3", "typ": "C3 III Van (SX_, SY_)", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "C3", "typ": "C3 AIRCROSS II Van (2C_, 2R_)", "von": 2019, "bis": "Zurzeit" },
+
+    { "modell": "C4", "typ": "C4 SPACETOURER (3D_)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "C4", "typ": "C4 CACTUS", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "C4", "typ": "C4 CACTUS Van (0B_, 0P_)", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "C4", "typ": "C4 SPACETOURER Van (3D_)", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "C4", "typ": "C4 III (BA_, BB_, BC_)", "von": 2020, "bis": "Zurzeit" },
+    { "modell": "C4", "typ": "C4 X (BD_, BE_, BF_)", "von": 2022, "bis": "Zurzeit" },
+
+    { "modell": "C5", "typ": "C5 AIRCROSS (AC_, AJ_, AR_, A4_)", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "C-ELYSEE", "typ": "C-ELYSEE (DD_)", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "GRAND", "typ": "GRAND C4 SPACETOURER (3A_, 3E_)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "GRAND", "typ": "GRAND C4 SPACETOURER Van (3A_, 3E_)", "von": 2019, "bis": "Zurzeit" },
+
+    { "modell": "JUMPY", "typ": "JUMPY III Bus (V_)", "von": 2018, "bis": 2025 },
+    { "modell": "JUMPY", "typ": "JUMPY III Kasten (V_)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "SPACETOURER", "typ": "SPACETOURER Bus (V_)", "von": 2018, "bis": 2025 },
+
+    { "modell": "ASTRA", "typ": "ASTRA L Sports Tourer (OV5)", "von": 2021, "bis": "Zurzeit" },
+    { "modell": "ASTRA", "typ": "ASTRA L (OV5)", "von": 2021, "bis": "Zurzeit" },
+
+    { "modell": "COMBO", "typ": "COMBO E Tour / Life (K9)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "COMBO", "typ": "COMBO Kasten/Großraumlimousine (K9)", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "CORSA", "typ": "CORSA F Kasten/Schrägheck", "von": 2019, "bis": "Zurzeit" },
+    { "modell": "CORSA", "typ": "CORSA F (P2JO)", "von": 2019, "bis": "Zurzeit" },
+
+    { "modell": "CROSSLAND", "typ": "CROSSLAND X Van", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "CROSSLAND", "typ": "CROSSLAND X / CROSSLAND (P17, P2QO)", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "GRANDLAND", "typ": "GRANDLAND X Van", "von": 2018, "bis": 2021 },
+    { "modell": "GRANDLAND", "typ": "GRANDLAND / GRANDLAND X (A18, P1UO)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "GRANDLAND", "typ": "GRANDLAND X / GRANDLAND (A18)", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "MOKKA", "typ": "MOKKA", "von": 2020, "bis": "Zurzeit" },
+
+    { "modell": "VIVARO", "typ": "VIVARO C Bus (K0)", "von": 2019, "bis": 2025 },
+    { "modell": "VIVARO", "typ": "VIVARO C Kasten (K0)", "von": 2019, "bis": "Zurzeit" },
+
+    { "modell": "ZAFIRA", "typ": "ZAFIRA LIFE Bus (K0)", "von": 2019, "bis": 2025 },
+
+    { "modell": "2008", "typ": "2008 I Van (CU_)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "2008", "typ": "2008 I (CU_)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "2008", "typ": "2008 II (UD_, US_, UY_, UJ_, UR_, UC_)", "von": 2019, "bis": "Zurzeit" },
+
+    { "modell": "208", "typ": "208 I (CA_, CC_)", "von": 2018, "bis": 2019 },
+    { "modell": "208", "typ": "208 Kasten/Schrägheck (CR_)", "von": 2018, "bis": 2019 },
+    { "modell": "208", "typ": "208 II (UB_, UP_, UW_, UJ_)", "von": 2019, "bis": "Zurzeit" },
+
+    { "modell": "3008", "typ": "3008 Van (MR_, MC_, MJ_)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "3008", "typ": "3008 II SUV (MC_, MR_, MJ_, M4_)", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "301", "typ": "301", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "308", "typ": "308 SW II (LC_, LJ_, LR_, LX_, L4_)", "von": 2017, "bis": 2021 },
+    { "modell": "308", "typ": "308 II (LB_, LP_, LW_, LH_, L3_)", "von": 2017, "bis": 2021 },
+    { "modell": "308", "typ": "308 Kasten/Schrägheck (LB_)", "von": 2017, "bis": 2021 },
+    { "modell": "308", "typ": "308 SW III (FC_, FJ_, FR_, F4_, FN_)", "von": 2021, "bis": "Zurzeit" },
+    { "modell": "308", "typ": "308 III (FB_, FH_, FP_, F3_, FM_)", "von": 2021, "bis": "Zurzeit" },
+
+    { "modell": "5008", "typ": "5008 II (MC_, MJ_, MR_, M4_)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "5008", "typ": "5008 II Van (MC_, MJ_)", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "508", "typ": "508 SW II (FC_, FJ_, F4_)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "508", "typ": "508 II (FB_, FH_, F3_)", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "EXPERT", "typ": "EXPERT Bus (V_)", "von": 2018, "bis": 2025 },
+    { "modell": "EXPERT", "typ": "EXPERT Kasten (V_)", "von": 2018, "bis": "Zurzeit" },
+
+    { "modell": "PARTNER", "typ": "PARTNER Kasten/Großraumlimousine (K9)", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "RIFTER", "typ": "RIFTER", "von": 2018, "bis": "Zurzeit" },
+    { "modell": "TRAVELLER", "typ": "TRAVELLER Bus (V_)", "von": 2018, "bis": 2025 }
+  ]
+}
+]
